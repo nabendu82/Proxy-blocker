@@ -2,12 +2,13 @@
 
   "manifest_version": 2,
   "name": "Proxy-blocker",
-  "description": "Uses the proxy API to block requests to specific hosts.",
+  "description": "Blocks requests to any webiste that are in below list ",
   "version": "1.0",
 
   "icons": {
-    "48": "icons/block.svg",
-    "96": "icons/block.svg"
+    "32": "icons/logo_32.png",
+    "48": "icons/logo_48.png",
+    "64": "icons/logo_64.png"
   },
 
   "applications": {

@@ -1,4 +1,4 @@
-# proxy-filter
+# Proxy-bilter
 
 ## What it does
 
@@ -16,7 +16,3 @@ To try it out:
 * visit `about:addons`, open the add-on's preferences, and try changing the hostnames in the text box
 * try visiting some different pages, to see the effect of your changes.
 
-## What it shows
-
-* How to implement a simple PAC script, and register it using the proxy API.
-* How to exchange messages between a PAC script and a background script.
