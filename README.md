@@ -1,4 +1,4 @@
-# Proxy-bilter
+# ProxyBlocker
 
 ## What it does
 
